@@ -33,7 +33,5 @@ I'm *!EEExp3rt*, welcome!!! 😄
 
 ## Contact Me
 
-- 📧 [leeexp3rt@qq.com](mailto:leeexp3rt@qq.com)
-- 📧 [1eeexp3rt@gmail.com](mailto:1eeexp3rt@gmail.com)
 - 📧 [leeexp3rt@outlook.com](mailto:leeexp3rt@outlook.com)
 - 👨‍💻 [GitHub.com](https://github.com/lEEExp3rt)
